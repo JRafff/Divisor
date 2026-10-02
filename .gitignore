@@ -1,0 +1,5 @@
+# simulation output
+obj_dir/
+*.vcd
+*.fst
+*.log
